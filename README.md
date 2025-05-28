@@ -49,14 +49,14 @@
 
 ---
 
-## ✨ Mi objetivo:
-**Ser desarrollador de videojuegos en una empresa internacional**
+## <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>✨ Mi objetivo:
+**Ser desarrollador de videojuegos en una empresa internacional y hacker**
 
 ---
 
 > “La creatividad es la inteligencia divirtiéndose.” – Albert Einstein
 
-<picture alingn="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+
 
 
 _________________________________________________________
