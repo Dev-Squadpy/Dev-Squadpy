@@ -59,8 +59,8 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Dev-Squadpy-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DevSquad-py)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=DevSquad-py-48&theme=material-palenight)](https://github.com/DevSquad-py)
+[![](https://github-readme-stats.vercel.app/api?username=Dev-Squadpy-&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DevSquad-py)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DevSquad-py-&theme=material-palenight)](https://github.com/DevSquad-py)
 </div>
 
 
