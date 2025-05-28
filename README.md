@@ -33,7 +33,7 @@
 ## 🔗 Mis redes y contacto:
 
 - 📧 Email: angeldavids052007@gmail.com
-- 🌐 Portafolio: *Próximamente*
+- 🌐 LinkTree: https://linktr.ee/AngelNunez_Dev
 - 🎮 GitHub Projects: [Ver Repositorios](https://github.com/Dev-Squadpy)
 
 ---
