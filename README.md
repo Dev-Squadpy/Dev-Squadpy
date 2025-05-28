@@ -2,7 +2,7 @@
   <img src="https://softwaredeprogramacion.wordpress.com/wp-content/uploads/2018/12/a8df46b3a73779864851bf875d2861e6e6930a11_hq.gif" alt="Banner Dev" width="600"/>
 </p>
 
-# 👋 ¡Hola! Soy Ángel David Núñez / @Dev-Squadpy  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  ¡Hola! Soy Ángel David Núñez / @Dev-Squadpy  
 
 🎮 Apasionado por el desarrollo de videojuegos y la programación.  
 💻 Estudiante de Técnico en Informática.  
