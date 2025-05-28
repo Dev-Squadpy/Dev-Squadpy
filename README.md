@@ -57,3 +57,10 @@
 > “La creatividad es la inteligencia divirtiéndose.” – Albert Einstein
 
 <picture alingn="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+
+
+_________________________________________________________
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
