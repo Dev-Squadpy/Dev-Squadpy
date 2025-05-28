@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ángel David Núñez / @Dev-Squadpy
+# 👋 ¡Hola! Soy Ángel David Núñez / @Dev-Squadpy   (https://softwaredeprogramacion.wordpress.com/wp-content/uploads/2018/12/a8df46b3a73779864851bf875d2861e6e6930a11_hq.gif)
 
 🎮 Apasionado por el desarrollo de videojuegos y la programación.  
 💻 Estudiante de Técnico en Informática.  
