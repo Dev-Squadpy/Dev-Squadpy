@@ -42,11 +42,15 @@
 - Testing Estático de Código
 - Desarrollo de Videojuegos
 - Mejora continua en Python y TypeScript
+- C++
+- Base de Datos
+- React
+- Y mucho más
 
 ---
 
 ## ✨ Mi objetivo:
-**Ser desarrollador de videojuegos en una empresa internacional** como @Supercell, @EpicGames, @ROG, @Ubisoft o @Microsoft.
+**Ser desarrollador de videojuegos en una empresa internacional**
 
 ---
 
