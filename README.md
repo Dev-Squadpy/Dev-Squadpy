@@ -34,7 +34,7 @@
 
 - 📧 Email: angeldavids052007@gmail.com
 - 🌐 LinkTree: https://linktr.ee/AngelNunez_Dev
-- 🎮 GitHub Projects: [Ver Repositorios](https://github.com/Dev-Squadpy)
+- 🎮 GitHub Projects: [Ver Repositorios](https://github.com/Dev-Squadpy/Otros-Proyectos)
 
 ---
 
