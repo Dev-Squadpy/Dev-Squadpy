@@ -40,19 +40,13 @@
 
 ## 🚀 Actualmente aprendiendo:
 - Testing Estático de Código
-- Desarrollo de Videojuegos
 - Mejora continua en Python y TypeScript
 - C++
 - Base de Datos
-- React
 - Y mucho más
 
 ---
 
-## <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Mi objetivo:
-**Ser desarrollador de videojuegos en una empresa internacional y hacker**
-
----
 
 > “La creatividad es la inteligencia divirtiéndose.” – Albert Einstein
 
