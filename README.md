@@ -1,65 +1,151 @@
-<p align="center">
-  <img src="https://softwaredeprogramacion.wordpress.com/wp-content/uploads/2018/12/a8df46b3a73779864851bf875d2861e6e6930a11_hq.gif" alt="Banner Dev" width="600"/>
-</p>
+<!-- Header Wave (Commented Out)
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
+</div>
+-->
 
+<!-- Footer Wave (Commented Out)
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%" 
+  />
+</p>
+-->
+
+<!-- MasterHead -->
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
+  <img width="100%" src="https://iili.io/C38oPaI.png" alt="Molly"/>
+</a>
+
+<!-- Greeting -->
+<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
+
+<!-- About Me -->
 # <h1 align="center"><b>¡Hola! Soy Ángel David Núñez / @Dev-Squadpy  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-🎮 Apasionado por el desarrollo de videojuegos y la programación.  
-💻 Estudiante de Técnico en Informática.  
-🌐 Buscando oportunidades remotas como Desarrollador Web Junior o Trainee.
-
----
-
-<h3 align="center">🛠️ Tecnologías que uso</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>
-  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" height="30"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Desarrollador+Frontend+y+Creador+de+Productos;Construyendo+interfaces+que+se+sienten+vivas;Transformando+ideas+en+experiencias+digitales;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;Siempre+aprendiendo+y+construyendo+algo+nuevo">
+</a>
+  
 </p>
 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mí
+
+<picture> <img align="right" src="https://iili.io/C3SqT37.png" width = 250px></picture>
+<p>
+  🌱 Actualmente enfocado en seguir creciendo como desarrollador frontend y futuro ingeniero de software.<br>
+  🎨 Me apasiona construir interfaces que se sientan vivas, donde el diseño y el código trabajen juntos para crear experiencias intuitivas y memorables.<br>
+  🚀 He desarrollado aplicaciones web, herramientas para desarrolladores y extensiones de VS Code utilizando tecnologías como React, Next.js, TypeScript y Node.js.<br>
+  🛠️ Disfruto transformar ideas complejas en productos reales, priorizando la experiencia de usuario, el rendimiento y la calidad del software.<br>
+  🤖 Interesado en Frontend Engineering, IA aplicada al desarrollo, automatización, y ciberseguridad.<br>
+  🎯 Mi objetivo es seguir aprendiendo, construir productos con impacto y avanzar hacia una formación de nivel internacional en ingeniería informática.<br>
+  🐱 Construyendo herramientas útiles mientras Molly supervisa cada línea de código (según ella, es apoyo psicologico no molestia).<br>
+</p>
+
+<h3 align="left">💬 Ponte en contacto</h3>
+<div align="left">
+  <a href="mailto:angeldavids052007@gmail.com.com"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/gmail.webp" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-n%C3%BA%C3%B1ez-8620b3274/"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/linkedin.webp" alt="Linkedin" /></a>
+  <a href="https://www.instagram.com/mollfloww/"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/ig.webp" alt="Instagram" /></a>
+  <a href="https://x.com/Angel0046167394"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/x.webp" alt="X" /></a>
+  <a href="https://linktr.ee/mollflow094"><img width="35px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/linktree.webp" /></a>
+  <a href="https://angmolly.netlify.app/" target="_blank"><img width="60px" src="https://github.com/Dev-Squadpy/imgreadme/blob/main/portfolio.png" alt="Portfolio" /></a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!-- Tech Stack -->
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+  🛠️ Arsenal Técnico
+</h3>
+
+<br><br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,py,vscode,git&theme=dark" />
+</p>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</div>
+
+<div align="center">
+
+<h2>📊 Mi Actividad</h2>
+
+<div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Squadpy&theme=github_dark)
+  
+ </div>
+
+<h3>🔥 Racha de Contribuciones</h3>
+
+<div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dev-Squadpy&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
+
+</div>
 
 ---
 
-## 🔗 Mis redes y contacto:
+<div align="center">
 
-- 📧 Email: angeldavids052007@gmail.com
-- 🌐 LinkTree: https://linktr.ee/mollflow094
-- 🎮 GitHub Projects: [Ver Repositorios](https://github.com/Dev-Squadpy/Otros-Proyectos)
+<h3>Random Dev Quote</h3>
 
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🚀 Actualmente aprendiendo:
-- Testing Estático de Código
-- Mejora continua en Python y TypeScript
-- C++
-- Base de Datos
-- Y mucho más
-
----
-
-
-> “La creatividad es la inteligencia divirtiéndose.” – Albert Einstein
-
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=Dev-Squadpy&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DevSquad-py)
-
-
-
-_________________________________________________________
+<!-- Ending -->
+<img src="https://iili.io/C381N8g.png" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
+<p align="center">
+  <strong>@Dev-Squadpy.</strong>
 </p>
