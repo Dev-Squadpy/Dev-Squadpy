@@ -109,7 +109,7 @@
 
 <div align="center">
 
-<h2>📊 Mi Actividad</h2>
+<h2 align="center">📊 Mi Actividad</h2>
 
 <div align=center>
   
