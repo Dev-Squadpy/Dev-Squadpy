@@ -48,6 +48,7 @@
   🤖 Interesado en Frontend Engineering, IA aplicada al desarrollo, automatización, y ciberseguridad.<br>
   🎯 Mi objetivo es seguir aprendiendo, construir productos con impacto y avanzar hacia una formación de nivel internacional en ingeniería informática.<br>
   🐱 Construyendo herramientas útiles mientras Molly supervisa cada línea de código (según ella es apoyo psicologico no molestia).<br>
+  🎪 Fan de TADC.<br>
 </p>
 
 <h3 align="left">💬 Ponte en contacto</h3>
