@@ -21,7 +21,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/Dev-Squadpy">
-  <img width="100%" src="https://iili.io/C38oPaI.png" alt="Molly"/>
+  <img width="100%" src="https://iili.io/C1XGvkl.jpg" alt="Molly"/>
 </a>
 
 <!-- Greeting -->
