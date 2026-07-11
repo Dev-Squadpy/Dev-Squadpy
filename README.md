@@ -20,7 +20,7 @@
 -->
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
+<a href="https://github.com/Dev-Squadpy">
   <img width="100%" src="https://iili.io/C38oPaI.png" alt="Molly"/>
 </a>
 
