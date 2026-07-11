@@ -41,14 +41,13 @@
 
 <picture> <img align="right" src="https://iili.io/C3SqT37.png" width = 250px></picture>
 <p>
-  🌱 Actualmente enfocado en seguir creciendo como desarrollador frontend y futuro ingeniero de software.<br>
+  🌱 Actualmente enfocado en seguir creciendo como desarrollador frontend.<br>
   🎨 Me apasiona construir interfaces que se sientan vivas, donde el diseño y el código trabajen juntos para crear experiencias intuitivas y memorables.<br>
   🚀 He desarrollado aplicaciones web, herramientas para desarrolladores y extensiones de VS Code utilizando tecnologías como React, Next.js, TypeScript y Node.js.<br>
   🛠️ Disfruto transformar ideas complejas en productos reales, priorizando la experiencia de usuario, el rendimiento y la calidad del software.<br>
   🤖 Interesado en Frontend Engineering, IA aplicada al desarrollo, automatización, y ciberseguridad.<br>
   🎯 Mi objetivo es seguir aprendiendo, construir productos con impacto y avanzar hacia una formación de nivel internacional en ingeniería informática.<br>
-  🐱 Construyendo herramientas útiles mientras Molly supervisa cada línea de código (según ella es apoyo psicologico no molestia).<br>
-  🎪 Fan de TADC.<br>
+  🐱 Construyendo herramientas útiles mientras Molly duerme en mis piernas (apoyo psicologico no molestia).<br>
 </p>
 
 <h3 align="left">💬 Ponte en contacto</h3>
